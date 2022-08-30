@@ -10,7 +10,7 @@
   border: 1px solid black;
   padding: 5px;
   border-radius: 5px;
-  background-color: lightgrey;
+  background-color: lightskyblue;
 }
 
 form {
@@ -21,5 +21,5 @@ form {
   max-width: 300px;
   padding: 5px;
   border-radius: 5px;
-  background-color: lightgrey;
+  background-color: lightskyblue;
 }
